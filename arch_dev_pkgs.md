@@ -1,10 +1,10 @@
-# command line stuff
+# Command line stuff
 
     bash-complete-more-git
     bash-git-prompt
 
-# dev tools
-## build tool
+# Dev tools
+## Build tool
 
     apache-ant
 
@@ -12,7 +12,7 @@
 
     git
 
-## the name says it all
+## The name says it all
 
     nodejs
 
@@ -22,61 +22,61 @@
     docker
     docker-compose
 
-## java based stuff
+## Java based stuff
 
     jdk
     gradle
     groovy
 
-## database
+## Database
 
     mongodb
     mongodb-tools
 
-## webserver
+## Webserver
 
     nginx
 
-# misc. tools
-## file browser
+# Misc. tools
+## File browser
 
     mc
 
-## command line editor
+## Command line editor
 
     vim
 
-## command line "download" tools
+## Command line "download" tools
 
     wget
     curl
 
-# ui apps
+# Ui apps
 
-## very good texteditor (similar to sublime but free, from the guys @ github)
+## Very good texteditor (similar to sublime but free, from the guys @ github)
 
     atom-editor-bin
 
-## what could this be? :)
+## What could this be? :)
 
     google-chrome
 
-# for better fonts
+# For better fonts
 
     ttf-ms-fonts
     ttf-roboto
 
 
-# goodies
-## quickaccess commands
+# Goodies
+## Quickaccess commands
 
     dmenu
 
-## install ubuntu packages
+## Install ubuntu packages
 
     dpkg
 
-## very cool icon theme
+## Very cool icon theme
 
     numix-circle-icon-theme-git
 
@@ -84,11 +84,11 @@
 
     plank
 
-## icon theme for it
+## Icon theme for it
 
     plank-theme-numix
 
-## drop-down terminal
+## Drop-down terminal
 
     tilda
     
