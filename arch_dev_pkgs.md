@@ -1,94 +1,96 @@
+#!/bin/bash -x
+
 # Command line stuff
 
-    bash-complete-more-git
-    bash-git-prompt
+yaourt -S --noconfirm bash-complete-more-git
+yaourt -S --noconfirm bash-git-prompt
 
 # Dev tools
 ## Build tool
 
-    apache-ant
+yaourt -S --noconfirm apache-ant
 
 ## SCM (source code management)
 
-    git
+yaourt -S --noconfirm git
 
 ## The name says it all
 
-    nodejs
+yaourt -S --noconfirm nodejs
 
 
 ## A kind of "Virtualisation technology"
 
-    docker
-    docker-compose
+yaourt -S --noconfirm docker
+yaourt -S --noconfirm docker-compose
 
 ## Java based stuff
 
-    jdk
-    gradle
-    groovy
+yaourt -S --noconfirm jdk
+yaourt -S --noconfirm gradle
+yaourt -S --noconfirm groovy
 
 ## Database
 
-    mongodb
-    mongodb-tools
+yaourt -S --noconfirm mongodb
+yaourt -S --noconfirm mongodb-tools
 
 ## Webserver
 
-    nginx
+yaourt -S --noconfirm nginx
 
 # Misc. tools
 ## File browser
 
-    mc
+yaourt -S --noconfirm mc
 
 ## Command line editor
 
-    vim
+yaourt -S --noconfirm vim
 
 ## Command line "download" tools
 
-    wget
-    curl
+yaourt -S --noconfirm wget
+yaourt -S --noconfirm curl
 
 # Ui apps
 
 ## Very good texteditor (similar to sublime but free, from the guys @ github)
 
-    atom-editor-bin
+yaourt -S --noconfirm atom-editor-bin
 
 ## What could this be? :)
 
-    google-chrome
+yaourt -S --noconfirm google-chrome
 
 # For better fonts
 
-    ttf-ms-fonts
-    ttf-roboto
+yaourt -S --noconfirm ttf-ms-fonts
+yaourt -S --noconfirm ttf-roboto
 
 
 # Goodies
 ## Quickaccess commands
 
-    dmenu
+yaourt -S --noconfirm dmenu
 
 ## Install ubuntu packages
 
-    dpkg
+yaourt -S --noconfirm dpkg
 
 ## Very cool icon theme
 
-    numix-circle-icon-theme-git
+yaourt -S --noconfirm numix-circle-icon-theme-git
 
 ## OSX style bottom tray
 
-    plank
+yaourt -S --noconfirm plank
 
 ## Icon theme for it
 
-    plank-theme-numix
+yaourt -S --noconfirm plank-theme-numix
 
 ## Drop-down terminal
 
-    tilda
-    
+yaourt -S --noconfirm tilda
+
